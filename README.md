@@ -104,5 +104,5 @@ Zum erstellen auf **Lieferungskalender** klicken und Start- und Enddatum eingebe
 
 ## Fehlersuche - Troubleshooting
 1. Überschriften von Tabellen sollten nach Möglichkeit **nicht geändert oder in ihrer Position verschoden werden**.
-2. Es sollten keine **Leerzeilen** in Tabellen sein, da Tabellen sonst nur bis dorthin ausgewertet werden. Siehe [Mitglieder](/README.md#mitglieder)
+2. Es sollten keine **Leerzeilen** in Tabellen sein, da Tabellen sonst nur bis dorthin ausgewertet werden. Siehe [Mitglieder](/README.md#mitglieder), [Ernteanteil erstellen](/README.md#ernteanteil-erstellen)
 
