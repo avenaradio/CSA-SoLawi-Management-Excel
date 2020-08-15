@@ -73,6 +73,10 @@ Danach hat jede Kombination aus Tag und Abholstelle 2 Spalten.
 
 Die Linke Spalte zeigt die Mengen in kg, stk... an, die rechte Spalte zeigt die anzahl der Verpackungseinheiten an. Das heist wenn 44kg Möhren geliefert werden, wird in der rechten Spalte 4,4 angezeigt. Am Ende der Tabelle steht die Verpackungseinheit 10kg.
 
+![Ernteliste Anteile](/Screenshots/Unbenannt.PNG)
+
+Im Kopf wird neben dem Tag die Anzahl der ganzen Anteile und neben dem Ort die Anzahl der halben Anteile angezeigt.
+
 Die Summe für alle Abholstellen an einem Tag wird **Fett** angezeigt.
 
 ## Ernteanteil Druck
