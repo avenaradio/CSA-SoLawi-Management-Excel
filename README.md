@@ -31,10 +31,15 @@ Die 5. Tabelle **Anteil** legt die möglichen Anteile fest, die ein Mitglied hab
 In der **Ernteliste** werden die Mengen immer auch in Verpackungseinheiten angegeben. Siehe [Ernteliste](/README.md#ernteliste)
 ## Orte (Abholstellen und Tage)
 ![Orte (Abholtage)](/Screenshots/Orte%20(Abholtage).PNG)
+
+Diese Tabelle definiert den Aufbau der Ernteliste.
 # Anwendung
 ## Ernteanteil erstellen
 ## Ernteliste
 ## Ernteanteil Druck
 ## Abhakliste
 ## Lieferungskalender
-## Fehlersuche
+## Fehlersuche - Troubleshooting
+1. Überschriften von Tabellen sollten nach Möglichkeit **nicht geändert oder in ihrer Position verschoden werden**.
+2. Es sollten keine **Leerzeilen** in Tabellen sein, da Tabellen sonst nur bis dorthin ausgewertet werden. Siehe [Mitglieder](/README.md#mitglieder)
+
