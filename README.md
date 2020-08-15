@@ -47,7 +47,7 @@ Die Ernteliste gibt die Mengen an, die geerntet und in die jeweilige Abholstelle
 
 1. Auf **Ernteliste** Klicken
 
-![Ernteliste Button](/Screenshots/Ernteliste%20Button.PNG)
+![Buttons](/Screenshots/Buttons.PNG)
 
 2. Kalenderwoche eingeben
 
