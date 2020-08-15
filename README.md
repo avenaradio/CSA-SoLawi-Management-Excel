@@ -21,16 +21,16 @@ Die 5. Tabelle **Anteil** legt die möglichen Anteile fest, die ein Mitglied hab
 ## Mitglieder
 ![Mitglieder](/Screenshots/Mitglieder.PNG)
 
-**Achtung! Die ersten 5 Überschriften dürfen in ihrer Reihenfolge und ihrem Inhalt nicht verändert werden!**
+**Achtung!** Die ersten 5 Überschriften dürfen in ihrer Reihenfolge und ihrem Inhalt nicht verändert werden!
 
-**Achtung! In der Spalte *Nachname* düfen KEINE leeren Felder sein!**
+**Achtung!** In der Spalte **Nachname** düfen KEINE leeren Felder sein!
 
 ## Artikel
 ![Artikel](/Screenshots/Artikel.PNG)
 
 In der **Ernteliste** werden die Mengen immer auch in Verpackungseinheiten angegeben. Siehe [Ernteliste](/README.md#ernteliste)
 ## Orte (Abholstellen und Tage)
-
+![Orte (Abholtage)](/Screenshots/Orte%20(Abholtage).PNG)
 # Anwendung
 ## Ernteanteil erstellen
 ## Ernteliste
