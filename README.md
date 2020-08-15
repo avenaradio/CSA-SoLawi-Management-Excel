@@ -2,7 +2,7 @@
 Mitglieder, Abholstellen und Ernteanteil verwalten in Excel.
 
 # Download
-SoLawi v4.9.xlsm
+SoLawi v4.9.xlsm (Microsoft Office, Makros mit VBA)
 
 # Setup
 ## Referenzdaten
