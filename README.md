@@ -30,7 +30,7 @@ Zum Sortieren auf das weiße Quadrat in der Überschrift klicken.
 
 **Achtung!** Die ersten 5 Überschriften dürfen in ihrer Reihenfolge und ihrem Inhalt nicht verändert werden!
 
-**Achtung!** In der Spalte **Nachname** düfen KEINE leeren Felder sein!
+**Achtung!** In der Spalte **Nachname** dürfen KEINE leeren Felder sein!
 
 ## Artikel
 ![Artikel](/Screenshots/Artikel.PNG)
@@ -48,7 +48,7 @@ Diese Tabelle definiert den Aufbau der Ernteliste.
 2. Sorte und Anmerkungen hinzufügen
 3. Für Großen und Kleinen Anteil die Mengen festlegen
 
-**Achtung!** In der Spalte **Artikel** düfen KEINE leeren Felder sein!
+**Achtung!** In der Spalte **Artikel** dürfen KEINE leeren Felder sein!
 ## Ernteliste
 Die Ernteliste gibt die Mengen an, die geerntet und in die jeweilige Abholstelle geliefert werden müssen.
 
@@ -78,7 +78,7 @@ Danach hat jede Kombination aus Tag und Abholstelle 2 Spalten.
 
 ![Ernteliste Abholstelle](/Screenshots/Ernteliste%20Abholstelle.PNG)
 
-Die Linke Spalte zeigt die Mengen in kg, stk... an, die rechte Spalte zeigt die anzahl der Verpackungseinheiten an. Das heist wenn 44kg Möhren geliefert werden, wird in der rechten Spalte 4,4 angezeigt. Am Ende der Tabelle steht die Verpackungseinheit 10kg.
+Die linke Spalte zeigt die Mengen in kg, Stk... an, die rechte Spalte zeigt die Anzahl der Verpackungseinheiten an. Das heißt wenn 44kg Möhren geliefert werden, wird in der rechten Spalte 4,4 angezeigt. Am Ende der Tabelle steht die Verpackungseinheit 10kg.
 
 ![Ernteliste Anteile](/Screenshots/Unbenannt.PNG)
 
@@ -91,13 +91,13 @@ Der Ernteanteil wird in der Abholstelle aufgehängt, damit die Mitglieder wissen
 
 ![Ernteanteil](/Screenshots/Ernteteil%20Druck.PNG)
 
-Zum erstellen auf **ErnteteilDruck** klicken und Kalenderwoche eingeben.
+Zum Erstellen auf **ErnteteilDruck** klicken und Kalenderwoche eingeben.
 ## Abhakliste
 Die Abhakliste wird ebenfalls in der Abholstelle aufgehängt, dort haken sich die Mitglieder ab wenn sie abgeholt haben, das gibt einen Überblick für später kommende Mitglieder darüber ob etwas knapp wird und wer alles überhaupt abholt.
 
 ![Abhakliste](/Screenshots/Abhakliste.PNG)
 
-Zum erstellen auf **Abhakliste** klicken. 
+Zum Erstellen auf **Abhakliste** klicken. 
 
 **Dieser Vorgang kann etwas länger dauern!**
 ## Lieferungskalender
@@ -105,11 +105,11 @@ Der Lieferungskalender ist eine grafische Übersicht darüber, wann was geliefer
 
 ![Lieferungskalender](/Screenshots/Lieferungskalender.PNG)
 
-Zum erstellen auf **Lieferungskalender** klicken und Start- und Enddatum eingeben.
+Zum Erstellen auf **Lieferungskalender** klicken und Start- und Enddatum eingeben.
 
 **Dieser Vorgang kann etwas länger dauern!**
 
 ## Fehlersuche - Troubleshooting
-1. Überschriften von Tabellen sollten nach Möglichkeit **nicht geändert oder in ihrer Position verschoden werden**.
+1. Überschriften von Tabellen sollten nach Möglichkeit **nicht geändert oder in ihrer Position verschoben werden**.
 2. Es sollten keine **Leerzeilen** in Tabellen sein, da Tabellen sonst nur bis dorthin ausgewertet werden. Siehe [Mitglieder](/README.md#mitglieder), [Ernteanteil erstellen](/README.md#ernteanteil-erstellen)
 
