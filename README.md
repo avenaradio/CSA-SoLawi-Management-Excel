@@ -86,9 +86,9 @@ Die Summe für alle Abholstellen an einem Tag wird **Fett** angezeigt.
 ## Ernteanteil
 Der Ernteanteil wird in der Abholstelle aufgehängt, damit die Mitglieder wissen, was sie abholen müssen.
 
-![Ernteanteil](/Screenshots/Ernteanteil.PNG)
+![Ernteanteil](/Screenshots/Ernteteil%20Druck.PNG)
 
-Zum erstellen auf **ErnteanteilDruck** klicken und auch hier KW und Jahr eingeben.
+Zum erstellen auf **ErnteteilDruck** klicken und auch hier KW und Jahr eingeben.
 ## Abhakliste
 Die Abhakliste wird ebenfalls in der Abholstelle aufgehängt, dort haken sich die Mitglieder ab wenn sie abgeholt haben, das gibt einen Überblick für später kommende Mitglieder darüber ob etwas knapp wird und wer alles überhaupt abholt.
 
