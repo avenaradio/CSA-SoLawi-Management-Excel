@@ -35,7 +35,7 @@ In der **Ernteliste** werden die Mengen immer auch in Verpackungseinheiten angeg
 Diese Tabelle definiert den Aufbau der Ernteliste.
 # Anwendung
 ## Ernteanteil erstellen
-![Orte (Abholtage)](/Screenshots/Ernteanteil.PNG)
+![Ernteanteil](/Screenshots/Ernteanteil.png)
 
 1. Artikel per Dropdown auswählen
 2. Sorte und Anmerkungen hinzufügen
