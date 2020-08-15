@@ -46,19 +46,35 @@ Diese Tabelle definiert den Aufbau der Ernteliste.
 Die Ernteliste gibt die Mengen an, die geerntet und in die jeweilige Abholstelle geliefert werden müssen.
 
 1. Auf **Ernteliste** Klicken
+
 ![Ernteliste Button](/Screenshots/Ernteliste%20Button.PNG)
+
 2. Kalenderwoche eingeben
+
 ![Kalenderwoche](/Screenshots/KW.PNG)
+
 3. Jahr eingeben
+
 ![Jahr](/Screenshots/Jahr.PNG)
+
 4. Die Tabelle wird erstellt und der Druckbereich automatisch festgelegt. Existiert eine Tabelle mit gleichem Datum, wird diese überschrieben. 
+
 5. Drucken: **Strg+P**
+
 ![Ernteliste](/Screenshots/Ernteliste.PNG)
+
 Die ersten 3 Spalten sind der Ernteanteil als Referenz.
+
 ![Ernteliste Ernteteil](/Screenshots/Ernteliste%20Ernteteil.PNG)
+
 Danach hat jede Kombination aus Tag und Abholstelle 2 Spalten. 
+
 ![Ernteliste Abholstelle](/Screenshots/Ernteliste%20Abholstelle.PNG)
-Die Linke Spalte zeigt die Mengen in kg, stk... an, die rechte Spalte zeigt die anzahl der Verpackungseinheiten an.
+
+Die Linke Spalte zeigt die Mengen in kg, stk... an, die rechte Spalte zeigt die anzahl der Verpackungseinheiten an. D.h. wenn 44kg Möhren geliefert werden, wird in der rechten Spalte 4,4 angezeigt. Am Ende der Tabelle steht die Verpackungseinheit 10kg.
+
+Die Summe für alle Abholstellen an einem Tag wird **Fett** angezeigt.
+
 ## Ernteanteil Druck
 ## Abhakliste
 ## Lieferungskalender
