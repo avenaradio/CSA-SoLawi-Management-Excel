@@ -4,6 +4,9 @@ Mitglieder, Abholstellen und Ernteanteil verwalten in Excel.
 # Download
 SoLawi v4.9.xlsm (Microsoft Office, Makros mit VBA)
 
+# Spenden
+PayPal
+
 # Setup
 ## Referenzdaten
 ![Referenzdaten](/Screenshots/Referenzdaten.PNG)
