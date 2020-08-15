@@ -21,6 +21,9 @@ Die 5. Tabelle **Anteil** legt die möglichen Anteile fest, die ein Mitglied hab
 ## Mitglieder
 ![Mitglieder](/Screenshots/Mitglieder.PNG)
 
+Zum Sortieren auf das weiße Quadrat in der Überschrift klicken.
+![Sortieren](/Screenshots/Sortieren.png)
+
 **Achtung!** Die ersten 5 Überschriften dürfen in ihrer Reihenfolge und ihrem Inhalt nicht verändert werden!
 
 **Achtung!** In der Spalte **Nachname** düfen KEINE leeren Felder sein!
