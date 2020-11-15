@@ -41,6 +41,7 @@ In der **Ernteliste** werden die Mengen immer auch in Verpackungseinheiten angeg
 
 Diese Tabelle definiert den Aufbau der Ernteliste.
 # Anwendung
+**Achtung!** Als erstes müssen Makros aktiviert werden, sonst funktionieren die Buttons nicht!
 ## Ernteanteil erstellen
 ![Ernteanteil](/Screenshots/Ernteanteil.png)
 
