@@ -1,0 +1,3 @@
+25.12.2020
+Added LieferungskalenderDetail
+	Gibt die Liefermengen eines Zeitraums an
