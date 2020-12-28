@@ -2,7 +2,7 @@
 Mitglieder, Abholstellen und Ernteanteil verwalten sowie Daten auswerten in Microsoft Excel.
 
 # Download
-[SoLawi v5.1.xlsm](https://github.com/oekado/CSA-SoLawi-Management-Excel/raw/master/SolaWi%20v5.1.xlsm) (Microsoft Office, Makros mit VBA)
+[SoLawi v5.2.xlsm](https://github.com/oekado/CSA-SoLawi-Management-Excel/raw/master/SolaWi%20v5.2.xlsm) (Microsoft Office, Makros mit VBA)
 
 # Kontakt & Spenden
 Bei Fragen könnt ihr mich gerne kontaktieren: oekado@eclipso.de

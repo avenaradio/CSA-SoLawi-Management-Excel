@@ -1,7 +1,12 @@
-26.12.2020
+Changelog
+v5.2 28.12.2020
+1. Ernteliste wird für Tag erstellt und gespeichert und nicht für ganze Woche - Saisonkalender noch nicht kompatibel!
+2. Kleiner Anteil in ErnteteilDruck jetzt links (nicht dynamisch)
+
+v5.1 26.12.2020
 1. 1Anteil und 1/2Anteil in Groß und Klein geändert
 2. Letzte Zeile von ErnteteilDruck wird jetzt auch in Gramm umgewandelt
+3. Auto Zoom for Dropdown in Ernteteil Column A
 
-25.12.2020
-1. Added LieferungskalenderDetail
-	Gibt die Liefermengen eines Zeitraums an
+v5.0 25.12.2020
+1. Added LieferungskalenderDetail - Gibt die Liefermengen eines Zeitraums an
